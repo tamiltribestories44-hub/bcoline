@@ -1,0 +1,10 @@
+{
+  "description": "Recreates the referenced website’s pages, content, branding, and layout to help users access its information in a complete, familiar format.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
